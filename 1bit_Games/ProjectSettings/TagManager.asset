@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Center
+  - SleepingEnergy
   layers:
   - Default
   - TransparentFX
@@ -42,8 +44,8 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 1185622743
+    uniqueID: 1465940847
     locked: 0
   - name: Foreground
-    uniqueID: 1186665261
+    uniqueID: 4290776743
     locked: 0
